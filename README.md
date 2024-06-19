@@ -1,4 +1,4 @@
-### Chicken Dinner
+## Chicken Dinner
 ![image](https://github.com/emilyniee/UOttahack6-WWCD/assets/116975786/2313fdb4-ca97-4910-b1c9-a13de421e4f9)
 
 ### Inspiration
